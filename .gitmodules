@@ -1,0 +1,6 @@
+[submodule "BDDProyectoFinal"]
+	path = BDDProyectoFinal
+	url = https://github.com/NicoLorenzo1/BDDProyectoFinal.git
+[submodule "PencaCA2024"]
+	path = PencaCA2024
+	url = https://github.com/FrancoBarlocco/Proyecto-BDD2.git
